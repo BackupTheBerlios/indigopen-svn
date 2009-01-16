@@ -1,6 +1,6 @@
 <?php
 /**
- * $Id: $
+ * $Id$
  * @package IndigoPen
  *
  * @todo    Do we need to flush the buffer to stop it hanging sometimes
