@@ -1,5 +1,5 @@
 /**
-$Id:  $
+$Id$
  *
  *  This file is part of indigoPen.
  *
@@ -21,5 +21,5 @@ $Id:  $
  *  @author Mr Anchovy <mr.anchovy at mranchovy dot com>
  *  @package indigoPen
  *  @version 0.01
- *  $Id:  $
+ *  $Id$
  */
