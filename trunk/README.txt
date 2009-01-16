@@ -19,6 +19,6 @@
  *  @copyright 2004-2009 Indigo Pen
  *  @author Mr Anchovy <mr.anchovy at mranchovy dot com>
  *  @package indigoPen
- *  @version 0.01
+ *  @version 0.01.0006
  *  $Id$
  */
